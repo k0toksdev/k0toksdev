@@ -10,7 +10,7 @@
 - Lógica de Programação
 
 📂 Meus espaços:
-- 🎥 [Canal no YouTube](https://www.youtube.com/@k0toks.dev)
+- 🎥 [Canal no YouTube](https://www.youtube.com/@k0toksdev)
 - 📬 E-mail: **k0toks.dev@gmail.com**
 
 📌 Repositórios em construção, mas a jornada já começou. 🚀
