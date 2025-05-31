@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o k0toks
+# 👋 Olá, eu sou o k0toks.dev
 
 > "Ânsia de ter e tédio de possuir."
 
@@ -14,6 +14,7 @@
 - 📬 E-mail: **k0toks.dev@gmail.com**
 
 📌 Repositórios em construção, mas a jornada já começou. 🚀
+
 
 <!---
 k0toksdev/k0toksdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
