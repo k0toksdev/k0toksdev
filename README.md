@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o k0toks.dev
+# 👋 Olá, eu sou o k0toks
 
 > "Ânsia de ter e tédio de possuir."
 
