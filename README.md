@@ -9,7 +9,7 @@
 Dev em construção, explorando o front-end com consistência e foco.
 
 - 🧩 Conhecimento básico de **HTML** e **CSS**
-- 📌 Atualmente estudando: **React**, **TypeScript**, **Git** e **Tailwind**
+- 📌 Atualmente estudando: **TypeScript**, **React** e **Tailwind**
 - 🧪 Aprendendo na prática com projetos e erros
 - 📚 Organizado com uma conta só pra estudos e código
 
@@ -20,14 +20,11 @@ Dev em construção, explorando o front-end com consistência e foco.
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React JS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React JS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </div>
-
-<p align="center">HTML, CSS e Git são minha base. Agora estou mergulhando fundo no mundo do React e TypeScript 💥</p>
 
 ---
 
