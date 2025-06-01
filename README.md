@@ -1,19 +1,40 @@
-# 👋 Olá, eu sou o k0toks.dev
+<h1 align="center">k0toks.dev</h1>
 
-> "Ânsia de ter e tédio de possuir."
+<p align="center">
+  <i>“ânsia de ter e tédio de possuir”</i>
+</p>
 
-🎯 Explorando o universo da programação com foco em **front-end**.
+---
 
-🧠 Atualmente estudando:
-- React (com Vite, TypeScript e Tailwind)
-- Git e GitHub
-- Lógica de Programação
+### 👨‍💻 Sobre mim
 
-📂 Meus espaços:
-- 🎥 [Canal no YouTube](https://www.youtube.com/@k0toksdev)
-- 📬 E-mail: **k0toks.dev@gmail.com**
+- 🧠 Estudando: **React**, **TypeScript**, **Git**, **Vite**
+- 🎯 Foco: Desenvolvimento Front-end e projetos pessoais
+- 🌱 Aprendendo um passo de cada vez
+- 🚀 Explorando o universo dev com curiosidade
 
-📌 Repositórios em construção, mas a jornada já começou. 🚀
+---
+
+### 🧰 Tecnologias
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</div>
+
+---
+
+### 📫 Contato
+
+- Email para estudos: `k0toks.dev@gmail.com`
+- LinkedIn: (adicionamos depois se quiser)
+- GitHub: [github.com/k0toks](https://github.com/k0toks)
+
+---
+
+<p align="center">Feito com 💻 e uma pitada de roxo 🟣</p>
 
 
 <!---
