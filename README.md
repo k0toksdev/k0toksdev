@@ -31,8 +31,8 @@ Dev em construção, explorando o front-end com consistência e foco.
 ### 📫 Contato
 
 - Gmail: **k0toks.dev@gmail.com**
-- GitHub: [github.com/k0toks](https://github.com/k0toks)
+- GitHub: [github.com/k0toks](https://github.com/k0toksdev)
 
 ---
 
-<p align="center">Feito com 💻 e uma pitada de roxo 🟣</p>
+<p align="center">Feito com um 🖥 e uma pitada de roxo 🟣</p>
