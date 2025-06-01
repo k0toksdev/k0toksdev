@@ -1,6 +1,6 @@
 <h1 align="center">k0toks.dev</h1>
 
-<p align="center"><i>“ânsia de ter e tédio de possuir”</i></p>
+<p align="center"><i>“ânsia de ter e o tédio de possuir”</i></p>
 
 ---
 
@@ -8,10 +8,9 @@
 
 Dev em construção, explorando o front-end com consistência e foco.
 
-- 🧩 Conhecimento básico de **HTML** e **CSS**
-- 📌 Atualmente estudando: **TypeScript**, **React** e **Tailwind**
+- 🧩 Conhecimento básico de **HTML** e **CSS**, sempre buscando aprimorar
+- 📌 Atualmente estudando: **React**, **TypeScript** e **Tailwind**
 - 🧪 Aprendendo na prática com projetos e erros
-- 📚 Organizado com uma conta só pra estudos e código
 
 ---
 
