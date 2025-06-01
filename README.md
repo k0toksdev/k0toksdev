@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🧠 Estudando: **React**, **TypeScript**, **Git**, **Vite**
+- 🧠 Estudando: **TypeScript**, **React**
 - 🎯 Foco: Desenvolvimento Front-end e projetos pessoais
 - 🌱 Aprendendo um passo de cada vez
 - 🚀 Explorando o universo dev com curiosidade
@@ -28,8 +28,8 @@
 
 ### 📫 Contato
 
-- Email para estudos: `k0toks.dev@gmail.com`
-- LinkedIn: (adicionamos depois se quiser)
+- Email: `k0toks.dev@gmail.com`
+- LinkedIn:
 - GitHub: [github.com/k0toks](https://github.com/k0toks)
 
 ---
